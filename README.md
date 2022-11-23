@@ -1,5 +1,9 @@
 # 線上模擬抽卡
 這程式是使用 Firebase 串接 Android Studio 開發而成的。
+# 程式碼
+下載 My Application.zip 檔案，將檔案解壓縮。
+ 1.各頁面執行程式碼路徑：MyApplication5\app\src\main\java\com\example\myapplication
+ 2.各頁面畫面編排程式碼路徑：MyApplication5\app\src\main\res\layout
 # 使用程式
 下載 app-debug.apk 檔案，安裝至模擬器或安卓手機。
 # 註冊使用者帳號
