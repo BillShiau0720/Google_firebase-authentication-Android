@@ -10,6 +10,7 @@
  2.各頁面畫面編排程式碼路徑：MyApplication5\app\src\main\res\layout
 # 使用程式
 下載 app-debug.apk 檔案，安裝至模擬器或安卓手機。
+
 # 註冊使用者帳號
 ![image](https://user-images.githubusercontent.com/118899307/203542352-bbe7aafa-8383-4254-a4bd-f8c7124aa7e0.png)
 
