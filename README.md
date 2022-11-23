@@ -6,5 +6,5 @@
 ![image](https://user-images.githubusercontent.com/118899307/203542352-bbe7aafa-8383-4254-a4bd-f8c7124aa7e0.png)
 
 需填入玩家名稱、帳號、密碼。
-# 資料庫格式
+# 資料庫格式(非即時更新)
 下載 server_data.json 檔案。
